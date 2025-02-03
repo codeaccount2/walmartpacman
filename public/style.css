@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    font-family: 'Roboto', Arial, sans-serif;
+    color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#intro-screen{
+    background-image: url('images/Background.png');
+}
+
+button{
+    background-color: black;
+    color: antiquewhite;
+    padding: 10px;
+    border-radius: 15px;
+}
